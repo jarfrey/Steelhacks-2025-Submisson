@@ -1,4 +1,4 @@
-# Steelhacks-2025-Submisson
+# Steelhacks-2025-Submisson | Team "Straight Up Hackin' It"
 
 ### Dynamic Homepage Extension
 This is a **dynamic**, **customizable homepage** built as a browser extension. It features a clean, modern design with a full-screen background and modular content widgets.

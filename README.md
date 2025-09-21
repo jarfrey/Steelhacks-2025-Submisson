@@ -17,8 +17,7 @@ To use this extension, please download the contents of this respository and unzi
 - **Calendar Widget**: A calendar component for a quick view of the month.
 - **Timer Widget**: A simple timer with start, pause, and reset functionality.
 - **Local Image Upload**: A photo widget that allows users to upload and display a local image.
-- **Accessibility Features**: Designed with accessibility in mind, though specific features are not yet detailed in the provided code.
-
+- **Accessibility Features**: Designed with accessibility in mind
 ***
 
 This extension also comes with 2 additional features: a text-to-speech panel and a translator panel. This aims to help people who would like assistance with reading text on webpages, and achieves this through different means. To use either of these, click on the puzzle piece next to the searchbar at the top of your screen and click the 'Steelhacks' extension. Then, click on the text to speech or translator, input the desired test, and click their respective output buttons.

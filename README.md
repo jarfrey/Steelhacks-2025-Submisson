@@ -18,49 +18,17 @@ This is a **dynamic**, **customizable homepage** built as a browser extension. I
 - **Accessibility Features**: Designed with accessibility in mind, though specific features are not yet detailed in the provided code.
 
 ***
-
-### Project Structure
-The project is organized into a modular component-based architecture for easy maintenance.
-
-src/
-├── components/
-│   ├── boxComponents/      
-│   ├── Search.tsx
-│   ├── Background.tsx
-│   └── App.tsx
-
-├── App.css
-
-├── App.tsx
-├── ...
-
-***
-
-### How to Run Locally
-**Clone the repository:**
-```bash
+# Steelhacks-2025-Submisson
 
 
-git clone [https://github.com/jarfrey/Steelhacks-2025-Submisson](https://github.com/jarfrey/Steelhacks-2025-Submisson)
-```
-### Install dependencies:
 
-```bash
+# Steelhacks-2025-Submisson
 
-npm install
-```
+To use this extension, please download the contents of this respository and unzip it. Then, on Google Chrome, navigate to 'Manage Extensions' and turn on Developer Mode in the top right. Click the 'Load unpacked' button, and select the folder you unzipped (you may have to go through an extra layer of a folder).
 
-### Set up API keys:
-```
-Create a .env file in the project's root directory and add your API keys.
 
-VITE_GEMINI_API_KEY=YOUR_GEMINI_API_KEY
-```
-### Start the development server:
+This extension also comes with 2 additional features: a text-to-speech panel and a translator panel. This aims to help people who would like assistance with reading text on webpages, and achieves this through different means. To use either of these, click on the puzzle piece next to the searchbar at the top of your screen and click the 'Steelhacks' extension. Then, click on the text to speech or translator, input the desired test, and click their respective output buttons.
 
-```bash
 
-npm run dev
 
-```
 

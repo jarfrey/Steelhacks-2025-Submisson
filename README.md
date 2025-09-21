@@ -50,13 +50,13 @@ git clone [https://github.com/jarfrey/Steelhacks-2025-Submisson](https://github.
 npm install
 ```
 
-###Set up API keys:
+### Set up API keys:
 ```
 Create a .env file in the project's root directory and add your API keys.
 
 VITE_GEMINI_API_KEY=YOUR_GEMINI_API_KEY
 ```
-###Start the development server:
+### Start the development server:
 
 ```bash
 

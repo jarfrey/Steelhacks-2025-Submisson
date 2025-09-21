@@ -1,0 +1,1 @@
+chrome.runtime.onMessage.addListener((t,s,r)=>{if(t.type==="translate")return fetch("https://libretranslate.de/translate",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify(t.payload)}).then(e=>e.json()).then(e=>r({success:!0,data:e})).catch(e=>r({success:!1,error:e.message})),!0});

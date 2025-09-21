@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "Steelhacks 2025",
+  "version": "1.0",
+    "permissions": [
+    "storage", "scripting", "tts","tabs", "geolocation","https://libretranslate.de/*"],
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  },
+  "action":{
+    "default_popup": "popup.html"
+  },
+  "background": {
+    "service_worker": "assets/background-DRt0f119.js"
+  }
+  
+}

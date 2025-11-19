@@ -20,7 +20,7 @@ To use this extension, please download the contents of this respository and unzi
 - **Accessibility Features**: Extension designed with additional accesibility features
 ***
 
-This extension also comes with 2 additional features: a text-to-speech panel and a translator panel. This aims to help people who would like assistance with reading text on webpages, and achieves this through different means. To use either of these, click on the puzzle piece next to the searchbar at the top of your screen and click the 'Steelhacks' extension. Then, click on the text to speech or translator, input the desired test, and click their respective output buttons.
+This extension also comes with 2 additional features: a text-to-speech panel and a translator panel. This aims to help people who would like assistance with reading text on webpages, and achieves this through different means. To use either of these, click on the puzzle piece next to the search bar at the top of your screen and click the 'Steelhacks' extension. Then, click on the text to speech or translator, input the desired test, and click their respective output buttons.
 
 
 
